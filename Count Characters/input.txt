@@ -1,0 +1,7 @@
+Count Characters
+
+Hi my name is Atharva Manjrekar. Thanks for testing out my code. Have a great day!
+
+This program will count the number of each letter of the alphabet (ignoring case) in a given string. It will skip (not count) any non-alphabet character like whitespace or punctuation.  
+
+The location of the text file is passed as a parameter to the main method.  
